@@ -8,7 +8,7 @@
 
 I build systems where an AI-generated result has to be testable, inspectable, and useful—not merely plausible. Since March 2024, my work has progressed from mathematics and physics training data through expert review and quality control into simulation-based robotics evaluation.
 
-Today I build MuJoCo environments, policy interfaces, reference controllers, diagnostics, and deterministic evaluations for professional AI-training work. Outside of contracting, I develop GraphDat and a private materials-cost system.
+Today I build MuJoCo environments, policy interfaces, reference controllers, diagnostics, and deterministic evaluations for professional AI-training work. Outside of contracting, I develop an AI graphing and editable-geometry tool called GraphDat and a private materials-cost system.
 
 [LinkedIn](https://www.linkedin.com/in/gabrial-mathews-04768a268/)
 
@@ -28,9 +28,9 @@ I create MuJoCo problems in which an AI system writes a policy that turns live o
 
 The work includes aerial sensing and planning, coordinated multi-robot behavior, and precision navigation. Source code, prompts, evaluation internals, and reconstructive task details remain private.
 
-### GraphDat
+### GraphDat — AI graphing and editable geometry
 
-GraphDat is an independent AI/ML system that turns written or dictated geometry instructions into structured, editable constructions. I am fine-tuning a FLAN-T5 Base model for compact geometry actions while a deterministic scene engine owns validation, state, execution, editing, and GeoGebra rendering.
+GraphDat is an AI-assisted graphing tool that turns written or dictated geometry instructions into structured, editable GeoGebra constructions. I am fine-tuning a FLAN-T5 Base model for compact geometry actions while a deterministic scene engine owns validation, state, execution, editing, and rendering.
 
 An experimental image-to-mesh workflow also converts visual regions into editable polygon geometry. The work combines transformer fine-tuning, dataset engineering, semantic evaluation, API development, image processing, and spatial representation.
 
